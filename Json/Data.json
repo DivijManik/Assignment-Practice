@@ -1,0 +1,10 @@
+{
+    "todo1": {
+        "done": true,
+        "desc": "Write Code"
+    },
+    "todo2": {
+        "done": true,
+        "desc": "Buy Fruits - apple, banana"
+    }
+}
