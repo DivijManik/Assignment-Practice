@@ -7,3 +7,10 @@ Given an array of integers nums and an integer target, return indices of the two
 ## Problem2 
 
 Given a signed integer x, return x with its digits reversed.
+
+# Practice / Learning
+
+## goto
+
+Goto keyword can jump the code to the specified label\
+check 'goto.c'
