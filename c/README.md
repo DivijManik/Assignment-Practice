@@ -32,3 +32,15 @@ check 'goto.c'
 `sprintf` used for converting int to string
 
 `atoi` used for converting string to int
+
+## structs
+
+Structures (also called structs) are a way to group several related variables into one place. 
+
+Each variable in the structure is known as a member of the structure.
+
+# Data structure
+
+## stack
+
+Stack is a linear data structure that follows the Last In, First Out (LIFO)
