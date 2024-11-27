@@ -15,7 +15,12 @@ Given an integer x, return true if x is a palindrome, and false otherwise.
 Palindrome number is same if reversed\
 example `121` if reversed will still be `121`
 
+## Problem4
+
+Remove duplicates from an array
+
 # Practice / Learning
+`c/Learn C` FOLDER
 
 ## goto
 
