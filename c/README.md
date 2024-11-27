@@ -21,3 +21,9 @@ example `121` if reversed will still be `121`
 
 Goto keyword can jump the code to the specified label\
 check 'goto.c'
+
+## sprintf & atoi
+
+`sprintf` used for converting int to string
+
+`atoi` used for converting string to int
