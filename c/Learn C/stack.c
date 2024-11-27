@@ -1,3 +1,5 @@
+// Data structure
+
 #include <stdio.h>
 #include <string.h>
 
