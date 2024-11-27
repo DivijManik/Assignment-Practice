@@ -21,9 +21,7 @@ int main()
         }
         else
         {
-            printf("Index : ");
-            printf("%d", ans[i]);
-            printf("\n");
+            printf("Index : %d \n", ans[i]);
         }
     }
     return 0;
